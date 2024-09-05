@@ -1,3 +1,4 @@
 config.ini
 env
 *.png
+**/__pycache__/
